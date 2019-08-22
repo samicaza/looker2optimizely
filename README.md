@@ -7,6 +7,8 @@ The integration would work the following way:
 - Triggering a Lambda function
 - In the Lambda function, parsing CSV file and sending conversion data to Optimizely via Optimizely Event API
   - https://developers.optimizely.com/x/events/api/index.html
+  
+This proof of concept demonstrates how we can parse a CSV file in S3 in Lambda and then send conversion data to Optimizely via the Optimizely Event API.
 
 This solves use cases such as:
 - Sending Salesforce MQL and SQL data to Optimizely via Looker
