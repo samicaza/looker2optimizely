@@ -6,7 +6,7 @@ The integration would work the following way:
   - https://docs.looker.com/sharing-and-publishing/scheduling-and-sharing/send-amazon-s3
 - Triggering a Lambda function
 - In the Lambda function, parsing CSV file and sending conversion data to Optimizely via Optimizely Event API
- -  https://developers.optimizely.com/x/events/api/index.html
+  - https://developers.optimizely.com/x/events/api/index.html
 
 This solves use cases such as:
 - Sending Salesforce MQL and SQL data to Optimizely via Looker
