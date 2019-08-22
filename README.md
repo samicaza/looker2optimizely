@@ -1,4 +1,4 @@
-# looker2s3
+# looker2optimizely
 This is a proof of concept for an integration between Looker and Optimizely.
 
 The integration would work the following way:
